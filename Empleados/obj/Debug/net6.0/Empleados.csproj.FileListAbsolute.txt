@@ -1,0 +1,14 @@
+F:\Lunal Project\Empleados\Empleados\bin\Debug\net6.0\Empleados.exe
+F:\Lunal Project\Empleados\Empleados\bin\Debug\net6.0\Empleados.deps.json
+F:\Lunal Project\Empleados\Empleados\bin\Debug\net6.0\Empleados.runtimeconfig.json
+F:\Lunal Project\Empleados\Empleados\bin\Debug\net6.0\Empleados.dll
+F:\Lunal Project\Empleados\Empleados\bin\Debug\net6.0\Empleados.pdb
+F:\Lunal Project\Empleados\Empleados\obj\Debug\net6.0\Empleados.GeneratedMSBuildEditorConfig.editorconfig
+F:\Lunal Project\Empleados\Empleados\obj\Debug\net6.0\Empleados.AssemblyInfoInputs.cache
+F:\Lunal Project\Empleados\Empleados\obj\Debug\net6.0\Empleados.AssemblyInfo.cs
+F:\Lunal Project\Empleados\Empleados\obj\Debug\net6.0\Empleados.csproj.CoreCompileInputs.cache
+F:\Lunal Project\Empleados\Empleados\obj\Debug\net6.0\Empleados.dll
+F:\Lunal Project\Empleados\Empleados\obj\Debug\net6.0\refint\Empleados.dll
+F:\Lunal Project\Empleados\Empleados\obj\Debug\net6.0\Empleados.pdb
+F:\Lunal Project\Empleados\Empleados\obj\Debug\net6.0\Empleados.genruntimeconfig.cache
+F:\Lunal Project\Empleados\Empleados\obj\Debug\net6.0\ref\Empleados.dll
